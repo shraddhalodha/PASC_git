@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m "msg"
+git push //link
+git pull
+git clone(new)//forked link
